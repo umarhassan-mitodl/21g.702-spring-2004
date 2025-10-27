@@ -17,13 +17,13 @@ VanPatten, Bill, Martha Alford Marks, and Richard V. Teschner. *Destinos: An In
 
 ———. *Destinos. Workbook / Study Guide II.* New York: McGraw Hill, 2002. (Lecciones 27-52)
 
-\[For OCW online learners: the complete [Destinos: An Introduction to Spanish](https://www.learner.org/series/destinos-an-introduction-to-spanish/) video series with practice exercises is available free online from Annenberg Learner.\]
+\[For OCW online learners: the complete {{% resource_link "75bebbf1-c8e2-427a-ad94-475fd6a21668" "Destinos: An Introduction to Spanish" %}} video series with practice exercises is available free online from Annenberg Learner.\]
 
 ## General Description
 
 In Spanish II you will continue to develop your fluency in understanding, speaking, reading and writing in Spanish, using the second part of the video-based program, *Destinos*, begun in Spanish I. *Destinos* is a soap opera that allows you to learn Spanish and experience its cultural diversity while following a good story full of surprises and human emotions. Spanish II will also include additional materials, such as Spanish films and other media, various types of reading selections and online resources.
 
-You will watch the *Destinos* episodes outside of class in the department's Language Learning and Resource Center or online at: [*Destinos*: An Introduction to Spanish](https://www.learner.org/series/destinos-an-introduction-to-spanish/).
+You will watch the *Destinos* episodes outside of class in the department's Language Learning and Resource Center or online at: {{% resource_link "75bebbf1-c8e2-427a-ad94-475fd6a21668" "*Destinos*: An Introduction to Spanish" %}}.
 
 You will also listen to an audio-only program integrated with the *Destinos* text and workbook. In the classroom, you will participate in a wide variety of activities and exercises which include interacting and communicating in Spanish with your classmates in small groups, practicing pronunciation and grammar, and giving short oral presentations to the whole class. The class is conducted in Spanish as much as possible, but English is used when necessary for clarity and efficiency.
 
