@@ -4,8 +4,6 @@ description: This resource contains the information regarding comp.2empleo.
 file: /courses/21g-702-spanish-ii-spring-2004/26204a4c2d5bb48cd7b59abb40680d12_MIT21G_702S04_empleo.pdf
 file_size: 66654
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
